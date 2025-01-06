@@ -3,3 +3,5 @@ version 2 de 10 tane armut eksilttim
 şiimdi 4.satırdayım
 şimdi 5.satırdayım
 
+bu komut 6.satırda şu anda
+
