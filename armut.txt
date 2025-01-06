@@ -7,3 +7,4 @@ bu komut 6.satırda şu anda
 
 8.satıra remote sonrası yazı ekledim
 
+remote repositoryde 10.satıra yazı ayazdım
