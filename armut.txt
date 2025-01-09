@@ -1,3 +1,9 @@
 sepete 20 tane armut koydum
 version 2 de 10 tane armut eksilttim
-bende de 40 tane armut var idi
+şiimdi 4.satırdayım
+şimdi 5.satırdayım
+
+bu komut 6.satırda şu anda
+
+8.satıra remote sonrası yazı ekledim
+
